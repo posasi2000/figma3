@@ -1,0 +1,27 @@
+section#product {
+  width: 120rem;
+  height: 67.5rem;
+}
+section#product div.inner {
+  width: 86.5rem;
+  height: 41.875rem;
+  flex-shrink: 0;
+}
+section#product div.inner h2.title {
+  display: flex;
+  width: 575px;
+  height: 72px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+section#product div.inner ul.productlist li {
+  width: 291px;
+  height: 389px;
+  flex-shrink: 0;
+}
+section#product div.inner ul.productlist li a img {
+  width: 12.1875rem;
+  height: 14.5rem;
+  flex-shrink: 0;
+}/*# sourceMappingURL=gallery.css.map */
